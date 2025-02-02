@@ -1,6 +1,5 @@
 # SHADOW-MD-PAIR
-#  SHADOW MD  WEB MADE BY CRONAZ XD
-
+#  SHADOW MD  WEB 
 
 <p align="center">  
   <a href="https://t.me/Tha_Healer">
